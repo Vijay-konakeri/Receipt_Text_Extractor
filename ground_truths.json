@@ -1,0 +1,62 @@
+{
+    "test-model-images/img/000.jpg": {
+      "company_name": "BOOK TA.K (TAMAN DAYA) SDN BHD",
+      "date": "25/12/2018",
+      "address": "NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR",
+      "total_amount": "9.00"
+    },
+    "test-model-images/img/001.jpg": {
+      "company_name": "INDAH GIFT & HOME DECO",
+      "date": "19/10/2018",
+      "address": "27, JALAN DEDAF 13, TAMAN JOHOR JAYA, 81100 JOHOR BAHRU, JOHOR.",
+      "total_amount": "60.31"
+    },
+    "test-model-images/img/002.jpg": {
+      "company_name": "MR D.I.Y. (JOHOR) SDN BHD",
+      "date": "12-01-19",
+      "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR (MR DIY TESCO TERBAU)",
+      "total_amount": "33.90"
+    },
+    "test-model-images/img/003.jpg": {
+      "company_name": "YONGFATT ENTERPRISE",
+      "date": "25/12/2018",
+      "address": "NO.122,124 JALAN DEDAP 13, 81100 JOHOR BAHRU",
+      "total_amount": "80.90"
+    },
+    "test-model-images/img/004.jpg": {
+      "company_name": "MR D.I.Y. (M) SDN BHD",
+      "date": "18-11-18",
+      "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR (TESCO PUTRA NILAI)",
+      "total_amount": "30.90"
+    },
+    "test-model-images/img/005.jpg": {
+      "company_name": "ABC HO TRADING",
+      "date": "09/01/2019",
+      "address": "No.2&4, JALAN HARMONI 3/2, TAMAN DESA HARMONI, 81100 JOHOR BAHRU,JOHOR",
+      "total_amount": "31.0"
+    },
+    "test-model-images/img/006.jpg": {
+      "company_name": "SOON HUAT MACHINERY ENTERPRISE",
+      "date": "11/01/2019",
+      "address": "NO.53 JALAN PUTRA 1, TAMAN SRI PUTRA 1, 81200 JOHOR BAHRU JOHOR",
+      "total_amount": "327.00"
+    },
+    "test-model-images/img/007.jpg": {
+      "company_name": "S.H.H. Motor (Sungai Rengit) SDN. BHD.",
+      "date": "23-01-2019",
+      "address": "No. 343, Jalan Kurau, Sungai Rengit, 81620 Pengerang, Johor",
+      "total_amount": "20.00"
+    },
+    "test-model-images/img/008.jpg": {
+      "company_name": "PERNIAGAAN ZHENG HUI",
+      "date": "12/02/2018",
+      "address": "NO.59 JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81760 JOHOR BAHRU",
+      "total_amount": "112.46"
+    },
+    "test-model-images/img/009.jpg": {
+      "company_name": "Gerbang Alaf Restaurants Sdn Bhd",
+      "date": "18/01/2018",
+      "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39, 47400 Petaling Jaya Selangor",
+      "total_amount": "26.6"
+    }
+  }
